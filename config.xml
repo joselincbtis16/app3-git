@@ -5,10 +5,10 @@
  id= "com.phonegap.example1"
  version= "1.0.0">
  
- <name>app1 DATOSALUMNOS </name>
+ <name>app3 Blibliografias Programación </name>
  
  <description>
-   Aplicacion que muestra los Datos del alumno
+   Aplicacion que muestra la Blibliografia de programación
     </description>
    
   <author href= "https://build.phonegap.com" email="yoselinm1093@gmail.com">
